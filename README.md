@@ -1,3 +1,5 @@
+# ※ 반드시 GSC를 먼저 실행하고 웹을 띄울 것.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
